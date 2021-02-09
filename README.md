@@ -141,7 +141,7 @@ Consulta de Procesos Judiciales - TYBA (ramajudicial.gov.co): Permite consultar 
 
 * [https://www.inpec.gov.co/registro-de-la-poblacion-privada-de-la-libertad](https://www.inpec.gov.co/registro-de-la-poblacion-privada-de-la-libertad) : Permite consultar el registro de la población privada de la libertad.
 
-## Consultas Internacionales
+## Recursos Internacionales
 
 * [https://www.fbi.gov/wanted/topten](https://www.fbi.gov/wanted/topten) : Lista de los fugitivos más buscados por el FBI.  
 
@@ -177,7 +177,7 @@ Consulta de Procesos Judiciales - TYBA (ramajudicial.gov.co): Permite consultar 
 
 * [https://www.dni.gov/nctc/groups.html](https://www.dni.gov/nctc/groups.html) :  Listado de grupos terroristas.  
 
-## Sanciones Internacionales
+## Recursos Internacionales - Sanciones
 
 * [https://sanctionssearch.ofac.treas.gov/](https://sanctionssearch.ofac.treas.gov/) : Lista de búsquedas de sanciones (OFAC).  
 
@@ -193,7 +193,7 @@ Consulta de Procesos Judiciales - TYBA (ramajudicial.gov.co): Permite consultar 
 
 * [https://eumostwanted.eu/es](https://eumostwanted.eu/es) : Lista de los más buscados por la EUROPOL.  
 
-## Utilidades  
+## Otros Recursos  
 
 * [https://www.arcgis.com/home/webmap/viewer.html](https://www.arcgis.com/home/webmap/viewer.html) : Permite visualizar el mapa mundial.
 
